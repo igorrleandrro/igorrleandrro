@@ -1,37 +1,59 @@
-Igor Leandro
+# Olá, me chamo Igor 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC. 
+
 
 ### 📚 Aprendendo atualmente
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <sub>Main Focus</sub>
+    <td align="center" width="140">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="80" /><br><br>
+      <b>Python</b><br>
+      Foco Principal
+      <br>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <sub>SQL & Data Modeling</sub>
+    <td align="center" width="140">
+     <br> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="80" /><br><br>
+      <b>MySQL</b>
+      SQL e Modelagem de Dados
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>
-      <sub>Learning</sub>
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_C_sharp.png" width="80" /><br><br>
+      <b>C#</b><br>
+      Aprendendo<br>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br>
-      <sub>Learning</sub>
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="80" /><br><br>
+      <b>C</b><br>
+      Aprendendo<br>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <sub>Version Control</sub>
+    <td align="center" width="140">
+      <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="80" /><br><br>
+      <b>Git</b><br>
+      Controle de Versão
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
-      <sub>Version Control</sub>
+    <td align="center" width="140">
+      <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="80" /><br><br>
+      <b>GitHub</b><br>
+      Controle de Versão
     </td>
   </tr>
 </table>
 
-## Projetos Recentes
-Os repositórios abaixo contêm exercícios e desafios lógicos autorais, focados em algoritmos, manipulação de coleções de dados e automação, todos desenvolvidos durante a graduação.
+
+## 🙋‍♂️ Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Meu foco principal é **Python** e **SQL (MySQL)**. Atualmente estou expandindo meu conhecimento em **C#** e **C**. Uso **Git** e **GitHub** no fluxo de trabalho dos meus projetos.
+
+---
+
+## 📬 Contatos
+
+<p align="center">
+  <a href="mailto:igorrleandrro@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/igorleandroo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
