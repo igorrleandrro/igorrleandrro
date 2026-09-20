@@ -43,7 +43,11 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Meu foco principal é **Python** e **SQL (MySQL)**. Atualmente estou expandindo meu conhecimento em **C#** e **C**. Uso **Git** e **GitHub** no fluxo de trabalho dos meus projetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC, com foco em Python (FastAPI) e MySQL.
+
+Para aplicar meus conhecimentos na prática, desenvolvi recentemente uma API RESTful de gestão de loja (Lojinha-de-cha), onde trabalhei com modelagem de banco de dados relacional, rotas de integração, regras de negócio e autenticação.
+
+Atualmente, estou expandindo meus estudos com C# e C, além de utilizar Git e GitHub para versionar e organizar meus projetos de estudo.
 
 ---
 
